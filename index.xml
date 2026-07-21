@@ -10,7 +10,7 @@
 <atom:link href="https://LiaRosa.github.io/Personal_Blog/index.xml" rel="self" type="application/rss+xml"/>
 <description>A blog built with Quarto</description>
 <generator>quarto-1.9.37</generator>
-<lastBuildDate>Tue, 21 Jul 2026 20:19:29 GMT</lastBuildDate>
+<lastBuildDate>Tue, 21 Jul 2026 20:31:08 GMT</lastBuildDate>
 <item>
   <title>April Showers</title>
   <dc:creator>Marlin Alejandro</dc:creator>
@@ -44,7 +44,7 @@
 
  ]]></description>
   <guid>https://LiaRosa.github.io/Personal_Blog/posts/april/april_showers.html</guid>
-  <pubDate>Tue, 21 Jul 2026 20:19:29 GMT</pubDate>
+  <pubDate>Tue, 21 Jul 2026 20:31:08 GMT</pubDate>
   <media:content url="https://LiaRosa.github.io/Personal_Blog/posts/april/friendswithflowers.jpeg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -65,7 +65,7 @@
 
  ]]></description>
   <guid>https://LiaRosa.github.io/Personal_Blog/posts/july/july_post.html</guid>
-  <pubDate>Tue, 21 Jul 2026 20:19:29 GMT</pubDate>
+  <pubDate>Tue, 21 Jul 2026 20:31:08 GMT</pubDate>
 </item>
 <item>
   <title>May Flowers</title>
@@ -94,7 +94,7 @@
 
  ]]></description>
   <guid>https://LiaRosa.github.io/Personal_Blog/posts/may/may_flowers.html</guid>
-  <pubDate>Tue, 21 Jul 2026 20:19:29 GMT</pubDate>
+  <pubDate>Tue, 21 Jul 2026 20:31:08 GMT</pubDate>
 </item>
 <item>
   <title>thought daughter</title>
@@ -452,7 +452,7 @@
 
  ]]></description>
   <guid>https://LiaRosa.github.io/Personal_Blog/posts/thought_daughter/thought_daughter.html</guid>
-  <pubDate>Tue, 21 Jul 2026 20:19:29 GMT</pubDate>
+  <pubDate>Tue, 21 Jul 2026 20:31:08 GMT</pubDate>
 </item>
 <item>
   <title>Prose</title>
@@ -510,7 +510,17 @@
 <p>Why – why – why did nothing change?</p>
 <p><br>
 </p>
-<pre><code>I quickly realized that I wouldn’t be able to become a curandera, so I had shifted my interest from medicinal herbs and focused on flowers and the language surrounding them. Much like how a word is a symbol with a prescribed definition, flowers all have different meanings and interpretations that can be used to communicate and form a message with. The idea of communicating with nature, through nature, became my secret code, one that I began to share with my abuelito. I would laugh before my abuelito would tell me to hush, both of us straining our ears to the trees, feet grounded, spine straight; one must stand like a tree to become one.&nbsp;</code></pre>
+<pre><code>I quickly realized that I wouldn’t be able to become a curandera, 
+so I had shifted my interest from medicinal herbs and focused 
+on flowers and the language surrounding them. Much like how a word 
+is a symbol with a prescribed definition, flowers all have different 
+meanings and interpretations that can be used to communicate and 
+form a message with. The idea of communicating with nature, 
+through nature, became my secret code, one that I began to share 
+with my abuelito. I would laugh before my abuelito would tell me 
+to hush, both of us straining our ears to the trees, 
+feet grounded, spine straight; 
+one must stand like a tree to become one.&nbsp;</code></pre>
 <p><br>
 </p>
 <pre><code>    Trees can be uprooted,</code></pre>
@@ -521,15 +531,13 @@
 <pre><code>Did it fall? Did I fall?</code></pre>
 <p>When you fell like an uprooted tree,&nbsp;</p>
 <p>Did you make a sound? Your red leaves veiling you</p>
-<p><br>
-</p>
 <p>A brain can bleed, a violent crimson can pour from your skull, who knew a skull could be fragile, who knew— A hundred combinations of plants and yet you pain. How many eggs have been used and yet, you do not remember?&nbsp; How a person whom you have raised can become a stranger, a strange little girl who cradles an egg. You can’t help but look at this sad girl, wondering why she cries, wondering why she holds onto this egg as if it were a lifeline. Little strange girl, don’t cry.</p>
 
 
 
  ]]></description>
   <guid>https://LiaRosa.github.io/Personal_Blog/posts/thought_daughter/Prose.html</guid>
-  <pubDate>Tue, 21 Jul 2026 20:19:29 GMT</pubDate>
+  <pubDate>Tue, 21 Jul 2026 20:31:08 GMT</pubDate>
   <media:content url="https://LiaRosa.github.io/Personal_Blog/posts/thought_daughter/jellyfish.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -627,7 +635,7 @@
 
  ]]></description>
   <guid>https://LiaRosa.github.io/Personal_Blog/posts/thought_daughter/red_moleskin.html</guid>
-  <pubDate>Tue, 21 Jul 2026 20:19:29 GMT</pubDate>
+  <pubDate>Tue, 21 Jul 2026 20:31:08 GMT</pubDate>
 </item>
 </channel>
 </rss>
