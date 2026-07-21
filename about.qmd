@@ -9,14 +9,13 @@ about:
       href: https://open.spotify.com/playlist/4geESJMhY9kUPZyI3AfAQq?si=TN0rwLWlTwm3byuMcQkwIA
     - icon: linkedin
       text: LinkedIn
-      href: https://linkedin.com
+      href: www.linkedin.com/in/marlin-alejandro-merchán-58b564392
     - icon: github
       text: Github
       href: https://github.com
 ---
 
 This blog is meant to document my writing and inner thoughts
-
 
 Wellesley College \| Wellesley, MA
 

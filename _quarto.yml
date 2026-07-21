@@ -1,0 +1,24 @@
+project:
+  type: website
+
+website:
+  description: "A blog built with Quarto"
+  site-url: https://your-website-url.example.com # you must change this appropriately for RSS feeds to work properly
+  title: "Personal Blog"
+  navbar:
+    right:
+      - about.qmd
+      - icon: github
+        href: https://github.com/
+      - icon: spotify
+        href: https://open.spotify.com/playlist/4geESJMhY9kUPZyI3AfAQq?si=TN0rwLWlTwm3byuMcQkwIA
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+      - custom.scss
+    css: styles.css
+
+editor: visual
+
