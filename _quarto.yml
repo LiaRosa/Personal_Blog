@@ -3,7 +3,7 @@ project:
 
 website:
   description: "A blog built with Quarto"
-  site-url: https://MarlinsMusings.com # you must change this appropriately for RSS feeds to work properly
+# you must change this appropriately for RSS feeds to work properly
   title: "Personal Blog"
   navbar:
     right:
