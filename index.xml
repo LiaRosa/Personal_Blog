@@ -6,15 +6,15 @@
       version="2.0">
 <channel>
 <title>Personal Blog</title>
-<link>https://your-website-url.example.com/</link>
-<atom:link href="https://your-website-url.example.com/index.xml" rel="self" type="application/rss+xml"/>
+<link>https://MarlinsMusings.com/</link>
+<atom:link href="https://MarlinsMusings.com/index.xml" rel="self" type="application/rss+xml"/>
 <description>A blog built with Quarto</description>
 <generator>quarto-1.9.37</generator>
-<lastBuildDate>Tue, 21 Jul 2026 19:18:39 GMT</lastBuildDate>
+<lastBuildDate>Tue, 21 Jul 2026 19:21:59 GMT</lastBuildDate>
 <item>
   <title>April Showers</title>
   <dc:creator>Marlin Alejandro</dc:creator>
-  <link>https://your-website-url.example.com/posts/april/april_showers.html</link>
+  <link>https://MarlinsMusings.com/posts/april/april_showers.html</link>
   <description><![CDATA[ 
 
 
@@ -43,14 +43,14 @@
 </section>
 
  ]]></description>
-  <guid>https://your-website-url.example.com/posts/april/april_showers.html</guid>
-  <pubDate>Tue, 21 Jul 2026 19:18:39 GMT</pubDate>
-  <media:content url="https://your-website-url.example.com/posts/april/friendswithflowers.jpeg" medium="image" type="image/jpeg"/>
+  <guid>https://MarlinsMusings.com/posts/april/april_showers.html</guid>
+  <pubDate>Tue, 21 Jul 2026 19:21:59 GMT</pubDate>
+  <media:content url="https://MarlinsMusings.com/posts/april/friendswithflowers.jpeg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>book runs and hospital lights</title>
   <dc:creator>Marlin Alejandro</dc:creator>
-  <link>https://your-website-url.example.com/posts/july/july_post.html</link>
+  <link>https://MarlinsMusings.com/posts/july/july_post.html</link>
   <description><![CDATA[ 
 
 
@@ -64,13 +64,13 @@
 
 
  ]]></description>
-  <guid>https://your-website-url.example.com/posts/july/july_post.html</guid>
-  <pubDate>Tue, 21 Jul 2026 19:18:39 GMT</pubDate>
+  <guid>https://MarlinsMusings.com/posts/july/july_post.html</guid>
+  <pubDate>Tue, 21 Jul 2026 19:21:59 GMT</pubDate>
 </item>
 <item>
   <title>May Flowers</title>
   <dc:creator>Marlin Alejandro</dc:creator>
-  <link>https://your-website-url.example.com/posts/may/may_flowers.html</link>
+  <link>https://MarlinsMusings.com/posts/may/may_flowers.html</link>
   <description><![CDATA[ 
 
 
@@ -92,13 +92,13 @@
 </section>
 
  ]]></description>
-  <guid>https://your-website-url.example.com/posts/may/may_flowers.html</guid>
-  <pubDate>Tue, 21 Jul 2026 19:18:39 GMT</pubDate>
+  <guid>https://MarlinsMusings.com/posts/may/may_flowers.html</guid>
+  <pubDate>Tue, 21 Jul 2026 19:21:59 GMT</pubDate>
 </item>
 <item>
   <title>thought daughter</title>
   <dc:creator>Marlin Alejandro</dc:creator>
-  <link>https://your-website-url.example.com/posts/thought_daughter/thought_daughter.html</link>
+  <link>https://MarlinsMusings.com/posts/thought_daughter/thought_daughter.html</link>
   <description><![CDATA[ 
 
 
@@ -450,13 +450,13 @@
 </section>
 
  ]]></description>
-  <guid>https://your-website-url.example.com/posts/thought_daughter/thought_daughter.html</guid>
-  <pubDate>Tue, 21 Jul 2026 19:18:39 GMT</pubDate>
+  <guid>https://MarlinsMusings.com/posts/thought_daughter/thought_daughter.html</guid>
+  <pubDate>Tue, 21 Jul 2026 19:21:59 GMT</pubDate>
 </item>
 <item>
   <title>Prose</title>
   <dc:creator>Marlin Alejandro</dc:creator>
-  <link>https://your-website-url.example.com/posts/thought_daughter/Prose.html</link>
+  <link>https://MarlinsMusings.com/posts/thought_daughter/Prose.html</link>
   <description><![CDATA[ 
 
 
@@ -527,14 +527,14 @@
 
 
  ]]></description>
-  <guid>https://your-website-url.example.com/posts/thought_daughter/Prose.html</guid>
-  <pubDate>Tue, 21 Jul 2026 19:18:39 GMT</pubDate>
-  <media:content url="https://your-website-url.example.com/posts/thought_daughter/jellyfish.jpg" medium="image" type="image/jpeg"/>
+  <guid>https://MarlinsMusings.com/posts/thought_daughter/Prose.html</guid>
+  <pubDate>Tue, 21 Jul 2026 19:21:59 GMT</pubDate>
+  <media:content url="https://MarlinsMusings.com/posts/thought_daughter/jellyfish.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>red moleskin</title>
   <dc:creator>Marlin Alejandro</dc:creator>
-  <link>https://your-website-url.example.com/posts/thought_daughter/red_moleskin.html</link>
+  <link>https://MarlinsMusings.com/posts/thought_daughter/red_moleskin.html</link>
   <description><![CDATA[ 
 
 
@@ -625,8 +625,8 @@
 
 
  ]]></description>
-  <guid>https://your-website-url.example.com/posts/thought_daughter/red_moleskin.html</guid>
-  <pubDate>Tue, 21 Jul 2026 19:18:39 GMT</pubDate>
+  <guid>https://MarlinsMusings.com/posts/thought_daughter/red_moleskin.html</guid>
+  <pubDate>Tue, 21 Jul 2026 19:21:59 GMT</pubDate>
 </item>
 </channel>
 </rss>
