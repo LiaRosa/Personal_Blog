@@ -82,7 +82,7 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-title','listing-artist',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-title-sort'] }],
+      valueNames: ['listing-title','listing-artist',{ data: ['index'] },{ data: ['categories'] }],
       
       searchColumns: ["listing-title","listing-artist"],
     };
@@ -133,7 +133,6 @@ window.Quarto = {
 </script>
 
 <link rel="stylesheet" href="../styles.css">
-<link rel="stylesheet" href="music_styles.css">
 </head>
 
 <body class="nav-fixed fullcontent quarto-light">
@@ -202,6 +201,18 @@ window.Quarto = {
 
 
 
+<style>
+/* Prevent text from bunching up and force full width */
+.listing-table th, .listing-table td {
+  white-space: nowrap !important;
+}
+
+/* Make sure the track title column gets the most space */
+.listing-table td.listing-title {
+  width: 50% !important;
+  white-space: normal !important; /* Allows long titles to wrap nicely instead of cutting off */
+}
+</style>
 
 
 
@@ -213,7 +224,7 @@ window.Quarto = {
     <select id="listing-listing-sort" class="form-select" aria-label="Order By" onchange="window['quarto-listings']['listing-listing'].sort(this.options[this.selectedIndex].value, { order: this.options[this.selectedIndex].getAttribute('data-direction')})">
       <option value="" disabled="" selected="" hidden="">Order By</option>
       <option value="index" data-direction="asc">Default</option>
-      <option value="listing-title-sort" data-direction="asc">
+      <option value="listing-title" data-direction="asc">
         Track
       </option>
       <option value="listing-artist" data-direction="asc">
@@ -231,7 +242,7 @@ window.Quarto = {
 <tr>
 
 <th>
-<a class="sort" data-sort="listing-title-sort" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Track</a>
+<a class="sort" data-sort="listing-title" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Track</a>
 </th>
 
 <th>
@@ -242,7 +253,7 @@ window.Quarto = {
 </thead>
 <tbody class="list">
 
-<tr data-index="0" data-listing-title-sort="Untitled God Song">
+<tr data-index="0">
 <td>
 <span class="listing-title">Untitled God Song</span>
 </td>
@@ -252,7 +263,7 @@ window.Quarto = {
 
 </tr>
 
-<tr data-index="1" data-listing-title-sort="Let Down">
+<tr data-index="1">
 <td>
 <span class="listing-title">Let Down</span>
 </td>
@@ -262,7 +273,7 @@ window.Quarto = {
 
 </tr>
 
-<tr data-index="2" data-listing-title-sort="the cure">
+<tr data-index="2">
 <td>
 <span class="listing-title">the cure</span>
 </td>
@@ -272,7 +283,7 @@ window.Quarto = {
 
 </tr>
 
-<tr data-index="3" data-listing-title-sort="maggots for brains">
+<tr data-index="3">
 <td>
 <span class="listing-title">maggots for brains</span>
 </td>
@@ -282,7 +293,7 @@ window.Quarto = {
 
 </tr>
 
-<tr data-index="4" data-listing-title-sort="Everybody Scream">
+<tr data-index="4">
 <td>
 <span class="listing-title">Everybody Scream</span>
 </td>
@@ -292,7 +303,7 @@ window.Quarto = {
 
 </tr>
 
-<tr data-index="5" data-listing-title-sort="i saw you in a dream">
+<tr data-index="5">
 <td>
 <span class="listing-title">i saw you in a dream</span>
 </td>
@@ -302,7 +313,7 @@ window.Quarto = {
 
 </tr>
 
-<tr data-index="6" data-listing-title-sort="Sweet Nothing">
+<tr data-index="6">
 <td>
 <span class="listing-title">Sweet Nothing</span>
 </td>
@@ -312,7 +323,7 @@ window.Quarto = {
 
 </tr>
 
-<tr data-index="7" data-listing-title-sort="Sienna">
+<tr data-index="7">
 <td>
 <span class="listing-title">Sienna</span>
 </td>
