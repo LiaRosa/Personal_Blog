@@ -1,6 +1,7 @@
 ---
 title: "Current Songs on Repeat"
 format: html
+css: music_styles.css
 listing:
   contents: music_data.yml
   type: table
@@ -9,12 +10,3 @@ listing:
     title: "Track"
     artist: "Artist"
 ---
-
-<style>
-.quarto-listing .listing-title,
-.quarto-listing td {
-  white-space: normal !important;
-  overflow: visible !important;
-  text-overflow: clip !important;
-}
-</style>
