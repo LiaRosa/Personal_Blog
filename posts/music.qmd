@@ -1,7 +1,7 @@
 ---
 title: "Current Songs on Repeat"
 format: html
-page-ayout: full
+page-layout: full
 listing:
   contents: music_data.yml
   type: table
@@ -13,15 +13,28 @@ listing:
 ---
 
 <style>
-/* Prevent text from bunching up and force full width */
-.listing-table th, .listing-table td {
-  white-space: nowrap !important;
+/* Force the table to take up the full page width */
+.listing-table {
+  width: 100% !important;
+  table-layout: auto !important;
 }
 
-/* Make sure the track title column gets the most space */
+/* Allow text to wrap nicely onto a new line if it is long */
+.listing-table th, 
+.listing-table td {
+  white-space: normal !important; 
+  word-wrap: break-word !important;
+}
+
+/* Give the song title column more breathing room */
 .listing-table td.listing-title {
-  width: 50% !important;
-  white-space: normal !important; /* Allows long titles to wrap nicely instead of cutting off */
+  width: 60% !important;
+}
+
+/* Give the artist column the remaining space */
+.listing-table td.listing-artist {
+  width: 40% !important;
 }
 </style>
+
 
