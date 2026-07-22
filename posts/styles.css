@@ -1,10 +1,10 @@
-/* Force the table to take up the full page width */
+/* Expand the table to the full page width */
 .listing-table {
   width: 100% !important;
   table-layout: auto !important;
 }
 
-/* Allow text to wrap naturally instead of cutting off with "..." */
+/* Force hidden title text structures to wrap naturally instead of using "..." */
 .listing-table th, 
 .listing-table td,
 .listing-table td span,
@@ -15,7 +15,7 @@
   max-width: none !important;
 }
 
-/* Allocate column space proportions */
+/* Assign maximum layout space to your track names */
 .listing-table td.listing-title {
   width: 60% !important;
 }
@@ -23,3 +23,4 @@
 .listing-table td.listing-artist {
   width: 40% !important;
 }
+
