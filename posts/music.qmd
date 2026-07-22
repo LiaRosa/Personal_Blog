@@ -10,3 +10,11 @@ listing:
     artist: "Artist"
 ---
 
+<style>
+.quarto-listing .listing-title,
+.quarto-listing td {
+  white-space: normal !important;
+  overflow: visible !important;
+  text-overflow: clip !important;
+}
+</style>
