@@ -11,7 +11,7 @@ listing:
     title: "Track"
     artist: "Artist"
 ---
-```{=html}
+
 <style>
 /* Prevent text from bunching up and force full width */
 .listing-table th, .listing-table td {
@@ -24,4 +24,4 @@ listing:
   white-space: normal !important; /* Allows long titles to wrap nicely instead of cutting off */
 }
 </style>
-```
+
