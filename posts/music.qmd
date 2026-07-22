@@ -1,0 +1,12 @@
+---
+title: "Current Songs on Repeat"
+format: html
+listing:
+  contents: music_data.yml
+  type: table
+  fields: [title, artist]
+  field-display-names:
+    title: "Track"
+    artist: "Artist"
+---
+
