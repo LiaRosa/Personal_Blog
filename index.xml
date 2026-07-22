@@ -10,7 +10,143 @@
 <atom:link href="https://LiaRosa.github.io/Personal_Blog/index.xml" rel="self" type="application/rss+xml"/>
 <description>A blog built with Quarto</description>
 <generator>quarto-1.9.37</generator>
-<lastBuildDate>Tue, 21 Jul 2026 20:31:08 GMT</lastBuildDate>
+<lastBuildDate>Wed, 22 Jul 2026 18:55:39 GMT</lastBuildDate>
+<item>
+  <title>Current Songs on Repeat</title>
+  <link>https://LiaRosa.github.io/Personal_Blog/posts/music.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+
+
+
+
+<div class="quarto-listing quarto-listing-container-table" id="listing-listing">
+<div class="listing-actions-group">
+   <div class="input-group input-group-sm quarto-listing-sort">
+    <span class="input-group-text"><i class="bi bi-sort-down"></i></span>
+    <select id="listing-listing-sort" class="form-select" aria-label="Order By" onchange="window['quarto-listings']['listing-listing'].sort(this.options[this.selectedIndex].value, { order: this.options[this.selectedIndex].getAttribute('data-direction')})">
+      <option value="" disabled="" selected="" hidden="">Order By</option>
+      <option value="index" data-direction="asc">Default</option>
+      <option value="listing-title-sort" data-direction="asc">
+        Track
+      </option>
+      <option value="listing-artist" data-direction="asc">
+        Artist
+      </option>
+    </select>
+  </div>
+    <div class="input-group input-group-sm quarto-listing-filter">
+      <span class="input-group-text"><i class="bi bi-search"></i></span>
+      <input type="text" class="search form-control" placeholder="Filter">
+    </div>
+</div>
+<table class="quarto-listing-table table">
+<thead>
+<tr>
+
+<th>
+<a class="sort" data-sort="listing-title-sort" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Track</a>
+</th>
+
+<th>
+<a class="sort" data-sort="listing-artist" onclick="if (this.classList.contains('sort-asc')) { this.classList.add('sort-desc'); this.classList.remove('sort-asc') } else { this.classList.add('sort-asc'); this.classList.remove('sort-desc')} return false;">Artist</a>
+</th>
+
+</tr>
+</thead>
+<tbody class="list">
+
+<tr data-index="0" data-listing-title-sort="Untitled God Song">
+<td>
+<span class="listing-title">Untitled God Song</span>
+</td>
+<td>
+<span class="listing-artist">Haley Heynderickx</span>
+</td>
+
+</tr>
+
+<tr data-index="1" data-listing-title-sort="Let Down">
+<td>
+<span class="listing-title">Let Down</span>
+</td>
+<td>
+<span class="listing-artist">Radiohead</span>
+</td>
+
+</tr>
+
+<tr data-index="2" data-listing-title-sort="the cure">
+<td>
+<span class="listing-title">the cure</span>
+</td>
+<td>
+<span class="listing-artist">Olivia Rodrigo</span>
+</td>
+
+</tr>
+
+<tr data-index="3" data-listing-title-sort="maggots for brains">
+<td>
+<span class="listing-title">maggots for brains</span>
+</td>
+<td>
+<span class="listing-artist">Olivia Rodrigo</span>
+</td>
+
+</tr>
+
+<tr data-index="4" data-listing-title-sort="Everybody Scream">
+<td>
+<span class="listing-title">Everybody Scream</span>
+</td>
+<td>
+<span class="listing-artist">Flroence + the Machine</span>
+</td>
+
+</tr>
+
+<tr data-index="5" data-listing-title-sort="i saw you in a dream">
+<td>
+<span class="listing-title">i saw you in a dream</span>
+</td>
+<td>
+<span class="listing-artist">The Japanese House</span>
+</td>
+
+</tr>
+
+<tr data-index="6" data-listing-title-sort="Sweet Nothing">
+<td>
+<span class="listing-title">Sweet Nothing</span>
+</td>
+<td>
+<span class="listing-artist">Calvin Harris</span>
+</td>
+
+</tr>
+
+<tr data-index="7" data-listing-title-sort="Sienna">
+<td>
+<span class="listing-title">Sienna</span>
+</td>
+<td>
+<span class="listing-artist">The Marias</span>
+</td>
+
+</tr>
+
+</tbody>
+</table>
+<div class="listing-no-matching d-none">No matching items</div>
+</div> ]]></description>
+  <guid>https://LiaRosa.github.io/Personal_Blog/posts/music.html</guid>
+  <pubDate>Wed, 22 Jul 2026 18:55:39 GMT</pubDate>
+</item>
 <item>
   <title>April Showers</title>
   <dc:creator>Marlin Alejandro</dc:creator>
@@ -44,7 +180,7 @@
 
  ]]></description>
   <guid>https://LiaRosa.github.io/Personal_Blog/posts/april/april_showers.html</guid>
-  <pubDate>Tue, 21 Jul 2026 20:31:08 GMT</pubDate>
+  <pubDate>Wed, 22 Jul 2026 18:55:39 GMT</pubDate>
   <media:content url="https://LiaRosa.github.io/Personal_Blog/posts/april/friendswithflowers.jpeg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -65,7 +201,7 @@
 
  ]]></description>
   <guid>https://LiaRosa.github.io/Personal_Blog/posts/july/july_post.html</guid>
-  <pubDate>Tue, 21 Jul 2026 20:31:08 GMT</pubDate>
+  <pubDate>Wed, 22 Jul 2026 18:55:39 GMT</pubDate>
 </item>
 <item>
   <title>May Flowers</title>
@@ -94,7 +230,7 @@
 
  ]]></description>
   <guid>https://LiaRosa.github.io/Personal_Blog/posts/may/may_flowers.html</guid>
-  <pubDate>Tue, 21 Jul 2026 20:31:08 GMT</pubDate>
+  <pubDate>Wed, 22 Jul 2026 18:55:39 GMT</pubDate>
 </item>
 <item>
   <title>thought daughter</title>
@@ -452,7 +588,7 @@
 
  ]]></description>
   <guid>https://LiaRosa.github.io/Personal_Blog/posts/thought_daughter/thought_daughter.html</guid>
-  <pubDate>Tue, 21 Jul 2026 20:31:08 GMT</pubDate>
+  <pubDate>Wed, 22 Jul 2026 18:55:39 GMT</pubDate>
 </item>
 <item>
   <title>Prose</title>
@@ -531,13 +667,15 @@ one must stand like a tree to become one.&nbsp;</code></pre>
 <pre><code>Did it fall? Did I fall?</code></pre>
 <p>When you fell like an uprooted tree,&nbsp;</p>
 <p>Did you make a sound? Your red leaves veiling you</p>
+<p><br>
+</p>
 <p>A brain can bleed, a violent crimson can pour from your skull, who knew a skull could be fragile, who knew— A hundred combinations of plants and yet you pain. How many eggs have been used and yet, you do not remember?&nbsp; How a person whom you have raised can become a stranger, a strange little girl who cradles an egg. You can’t help but look at this sad girl, wondering why she cries, wondering why she holds onto this egg as if it were a lifeline. Little strange girl, don’t cry.</p>
 
 
 
  ]]></description>
   <guid>https://LiaRosa.github.io/Personal_Blog/posts/thought_daughter/Prose.html</guid>
-  <pubDate>Tue, 21 Jul 2026 20:31:08 GMT</pubDate>
+  <pubDate>Wed, 22 Jul 2026 18:55:39 GMT</pubDate>
   <media:content url="https://LiaRosa.github.io/Personal_Blog/posts/thought_daughter/jellyfish.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -635,7 +773,7 @@ one must stand like a tree to become one.&nbsp;</code></pre>
 
  ]]></description>
   <guid>https://LiaRosa.github.io/Personal_Blog/posts/thought_daughter/red_moleskin.html</guid>
-  <pubDate>Tue, 21 Jul 2026 20:31:08 GMT</pubDate>
+  <pubDate>Wed, 22 Jul 2026 18:55:39 GMT</pubDate>
 </item>
 </channel>
 </rss>
