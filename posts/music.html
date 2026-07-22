@@ -135,7 +135,7 @@ window.Quarto = {
 <link rel="stylesheet" href="../styles.css">
 </head>
 
-<body class="nav-fixed fullcontent quarto-light">
+<body class="nav-fixed quarto-light">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top quarto-banner">
@@ -176,13 +176,13 @@ window.Quarto = {
 <!-- content -->
 <header id="title-block-header" class="quarto-title-block default page-columns page-full">
   <div class="quarto-title-banner page-columns page-full">
-    <div class="quarto-title column-body">
+    <div class="quarto-title column-page">
       <h1 class="title">Current Songs on Repeat</h1>
                       </div>
   </div>
     
   
-  <div class="quarto-title-meta">
+  <div class="quarto-title-meta column-page">
 
       
     
@@ -190,27 +190,39 @@ window.Quarto = {
     </div>
     
   
-  </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+  </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
     
 <!-- main -->
-<main class="content quarto-banner-title-block" id="quarto-document-content">
+<main class="content quarto-banner-title-block column-page" id="quarto-document-content">
 
 
 
 
 
 <style>
-/* Prevent text from bunching up and force full width */
-.listing-table th, .listing-table td {
-  white-space: nowrap !important;
+/* Force the table to take up the full page width */
+.listing-table {
+  width: 100% !important;
+  table-layout: auto !important;
 }
 
-/* Make sure the track title column gets the most space */
+/* Allow text to wrap nicely onto a new line if it is long */
+.listing-table th, 
+.listing-table td {
+  white-space: normal !important; 
+  word-wrap: break-word !important;
+}
+
+/* Give the song title column more breathing room */
 .listing-table td.listing-title {
-  width: 50% !important;
-  white-space: normal !important; /* Allows long titles to wrap nicely instead of cutting off */
+  width: 60% !important;
+}
+
+/* Give the artist column the remaining space */
+.listing-table td.listing-artist {
+  width: 40% !important;
 }
 </style>
 
