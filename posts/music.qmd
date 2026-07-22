@@ -1,12 +1,27 @@
 ---
 title: "Current Songs on Repeat"
 format: html
-css: music_styles.css
+page-ayout: full
 listing:
   contents: music_data.yml
   type: table
   fields: [title, artist]
+  field-links: []
   field-display-names:
     title: "Track"
     artist: "Artist"
 ---
+```{=html}
+<style>
+/* Prevent text from bunching up and force full width */
+.listing-table th, .listing-table td {
+  white-space: nowrap !important;
+}
+
+/* Make sure the track title column gets the most space */
+.listing-table td.listing-title {
+  width: 50% !important;
+  white-space: normal !important; /* Allows long titles to wrap nicely instead of cutting off */
+}
+</style>
+```
