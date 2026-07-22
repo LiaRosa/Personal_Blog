@@ -1,0 +1,25 @@
+/* Force the table to take up the full page width */
+.listing-table {
+  width: 100% !important;
+  table-layout: auto !important;
+}
+
+/* Allow text to wrap naturally instead of cutting off with "..." */
+.listing-table th, 
+.listing-table td,
+.listing-table td span,
+.listing-table td a {
+  white-space: normal !important; 
+  word-wrap: break-word !important;
+  text-overflow: clip !important;
+  max-width: none !important;
+}
+
+/* Allocate column space proportions */
+.listing-table td.listing-title {
+  width: 60% !important;
+}
+
+.listing-table td.listing-artist {
+  width: 40% !important;
+}
