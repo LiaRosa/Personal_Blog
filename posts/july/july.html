@@ -148,9 +148,13 @@ ul.task-list li input[type="checkbox"] {
 
 
 
+<p><em>You probably think that your mom’s meatballs are the best meatballs, just like I think my mom’s meatballs are the best ones, but it could be that neither one makes the best meatballs</em></p>
+<p>If I am considered to be the best in someone’s eyes, but someone else thinks that another person is the best, am I truly the best? Are we all someone’s best/favorite only to realize that it means that none of us are the best.</p>
 <p>My mother is feeling ill—she has been sick her whole life, a sickness that exhausts the body. It’s genetic—this disease…but that is not what we are here for. The hospital lights are always blinding, the shuffling of staff and patients, the dull hum of the central unit—the ache building in my shoulders—I always carry my stress there.</p>
 <p>My head hurts again, I’ve been here for over 9 hours. the stress will kill me, I’ve started to become numb again from the pain…I’ve become a sort of hospital ghost–floating around the hallways, standing still at times–the rain continued outside.</p>
 <pre><code>it will pass    eventually</code></pre>
+<p><em>eats away this heart of mine</em></p>
+<p>i keep thinking about this lyric and for some reason it sits on the tip of my tongue.</p>
 
 
 
@@ -228,7 +232,7 @@ ul.task-list li input[type="checkbox"] {
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp("https:\/\/LiaRosa\.github\.io\/Personal_Blog\/");
+        var filterRegex = new RegExp('/' + window.location.host + '/');
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }

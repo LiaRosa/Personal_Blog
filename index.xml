@@ -10,7 +10,7 @@
 <atom:link href="https://LiaRosa.github.io/Personal_Blog/index.xml" rel="self" type="application/rss+xml"/>
 <description>A blog built with Quarto</description>
 <generator>quarto-1.9.37</generator>
-<lastBuildDate>Wed, 22 Jul 2026 23:27:40 GMT</lastBuildDate>
+<lastBuildDate>Thu, 23 Jul 2026 00:40:49 GMT</lastBuildDate>
 <item>
   <title>Current Songs on Repeat</title>
   <link>https://LiaRosa.github.io/Personal_Blog/posts/music.html</link>
@@ -145,7 +145,7 @@
 <div class="listing-no-matching d-none">No matching items</div>
 </div> ]]></description>
   <guid>https://LiaRosa.github.io/Personal_Blog/posts/music.html</guid>
-  <pubDate>Wed, 22 Jul 2026 23:27:40 GMT</pubDate>
+  <pubDate>Thu, 23 Jul 2026 00:40:49 GMT</pubDate>
 </item>
 <item>
   <title>April Showers</title>
@@ -180,28 +180,32 @@
 
  ]]></description>
   <guid>https://LiaRosa.github.io/Personal_Blog/posts/april/april_showers.html</guid>
-  <pubDate>Wed, 22 Jul 2026 23:27:40 GMT</pubDate>
+  <pubDate>Thu, 23 Jul 2026 00:40:49 GMT</pubDate>
   <media:content url="https://LiaRosa.github.io/Personal_Blog/posts/april/friendswithflowers.jpeg" medium="image" type="image/jpeg"/>
 </item>
 <item>
-  <title>book runs and hospital lights</title>
-  <dc:creator>Marlin Alejandro</dc:creator>
-  <link>https://LiaRosa.github.io/Personal_Blog/posts/july/july_post.html</link>
+  <title>june</title>
+  <link>https://LiaRosa.github.io/Personal_Blog/posts/june/june.html</link>
   <description><![CDATA[ 
 
 
 
 
 
+<p><em>work in progress</em></p>
+<p><em>You probably think that your mom’s meatballs are the best meatballs, just like I think my mom’s meatballs are the best ones, but it could be that neither one makes the best meatballs</em></p>
+<p>If I am considered to be the best in someone’s eyes, but someone else thinks that another person is the best, am I truly the best? Are we all someone’s best/favorite only to realize that it means that none of us are the best.</p>
 <p>My mother is feeling ill—she has been sick her whole life, a sickness that exhausts the body. It’s genetic—this disease…but that is not what we are here for. The hospital lights are always blinding, the shuffling of staff and patients, the dull hum of the central unit—the ache building in my shoulders—I always carry my stress there.</p>
 <p>My head hurts again, I’ve been here for over 9 hours. the stress will kill me, I’ve started to become numb again from the pain…I’ve become a sort of hospital ghost–floating around the hallways, standing still at times–the rain continued outside.</p>
 <pre><code>it will pass    eventually</code></pre>
+<p><em>eats away this heart of mine</em></p>
+<p>i keep thinking about this lyric and for some reason it sits on the tip of my tongue.</p>
 
 
 
  ]]></description>
-  <guid>https://LiaRosa.github.io/Personal_Blog/posts/july/july_post.html</guid>
-  <pubDate>Wed, 22 Jul 2026 23:27:40 GMT</pubDate>
+  <guid>https://LiaRosa.github.io/Personal_Blog/posts/june/june.html</guid>
+  <pubDate>Thu, 23 Jul 2026 00:40:49 GMT</pubDate>
 </item>
 <item>
   <title>May Flowers</title>
@@ -217,8 +221,6 @@
 <p>The days are approaching, the memories fleeting, like the cherry blossoms on campus. My college life seems to be slipping from my fingers and with it the end of my teenage years and the beginning of my 20s.</p>
 <p>I often feel as if I missed out on milestones that people my age are expected to reach, but then again, I am not everyone, am I?</p>
 <p>In my Ecopoetics class, we are required to have a journal: nature journal. Meant for our thoughts as we contemplate and consider our relationship with nature and where we stand. I have taken a liking to going on walks around campus after class. The best thing about this spring semester is the lack of restraints on my schedule. I have actually not written much in my journal, not from lack of thinking, but rather because I tend to carry my own personal journal.</p>
-<p>“You probably think that your mom’s meatballs are the best meatballs, just like I think my mom’s meatballs are the best ones, but it could be that neither one makes the best meatballs”</p>
-<p>If I am considered to be the best in someone’s eyes, but someone else thinks that another person is the best, am I truly the best? Are we all someone’s best/favorite only to realize that it means that none of us are the best.</p>
 <section id="graduation" class="level3">
 <h3 class="anchored" data-anchor-id="graduation">Graduation</h3>
 <p>Graduation came and there was nothing much to say. I wanted to somehow leave a part of me at Wellesley College, so that she would remember me and to prove that I was there. How to leave behind my print?</p>
@@ -230,7 +232,7 @@
 
  ]]></description>
   <guid>https://LiaRosa.github.io/Personal_Blog/posts/may/may_flowers.html</guid>
-  <pubDate>Wed, 22 Jul 2026 23:27:40 GMT</pubDate>
+  <pubDate>Thu, 23 Jul 2026 00:40:49 GMT</pubDate>
 </item>
 <item>
   <title>thought daughter</title>
@@ -588,7 +590,7 @@
 
  ]]></description>
   <guid>https://LiaRosa.github.io/Personal_Blog/posts/thought_daughter/thought_daughter.html</guid>
-  <pubDate>Wed, 22 Jul 2026 23:27:40 GMT</pubDate>
+  <pubDate>Thu, 23 Jul 2026 00:40:49 GMT</pubDate>
 </item>
 <item>
   <title>Prose</title>
@@ -675,7 +677,7 @@ one must stand like a tree to become one.&nbsp;</code></pre>
 
  ]]></description>
   <guid>https://LiaRosa.github.io/Personal_Blog/posts/thought_daughter/Prose.html</guid>
-  <pubDate>Wed, 22 Jul 2026 23:27:40 GMT</pubDate>
+  <pubDate>Thu, 23 Jul 2026 00:40:49 GMT</pubDate>
   <media:content url="https://LiaRosa.github.io/Personal_Blog/posts/thought_daughter/jellyfish.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -773,7 +775,107 @@ one must stand like a tree to become one.&nbsp;</code></pre>
 
  ]]></description>
   <guid>https://LiaRosa.github.io/Personal_Blog/posts/thought_daughter/red_moleskin.html</guid>
-  <pubDate>Wed, 22 Jul 2026 23:27:40 GMT</pubDate>
+  <pubDate>Thu, 23 Jul 2026 00:40:49 GMT</pubDate>
 </item>
+</channel>
+</rss>
+lin Alejandro</dc:creator>
+  <link>https://LiaRosa.github.io/Personal_Blog/posts/thought_daughter/red_moleskin.html</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>A voice that rings out&nbsp;</p>
+<p>My aunt singing while sewing</p>
+<p>Her little escape</p>
+<ul>
+<li>My aunt at 2 a.m.</li>
+</ul>
+<hr>
+<p><br>
+</p>
+<p>I wish to go back to the days</p>
+<p>Where my cousins and I&nbsp;</p>
+<p>Would sing and play,&nbsp;</p>
+<p>Soaking the sun.&nbsp;</p>
+<p><br>
+</p>
+<p>When abuelita would call us</p>
+<p>To eat hot soup on an even hotter day.</p>
+<p>When we would climb mi abuelito’s red car</p>
+<p>And pretend we were driving&nbsp;</p>
+<p><br>
+</p>
+<p>Summers that we would spend together</p>
+<p>Vividily engraved in my mind</p>
+<p>And yet those times spent are all</p>
+<p>Now memories, times that will not return,</p>
+<p><br>
+</p>
+<p>People we will never see,&nbsp;</p>
+<p>Voices we will never harem</p>
+<p>And moments that we enjoyed as naive and innocent children.</p>
+<p>When I feel far from home,</p>
+<p>I close my eyes and pretend</p>
+<p>Being seven in Ecuador.&nbsp;</p>
+<p><br>
+</p>
+<hr>
+<p><strong>*unedited version*</strong></p>
+<p>A narrative: something about you, something personal, and yet as I pick up my pen, I can’t write anything about myself. I fear that the damage is rooted deep, the generational trauma still there, and the inability to express my emotions is one scar I have not been able to heal.&nbsp;</p>
+<ul>
+<li>I’m sorry that I failed that class</li>
+</ul>
+<hr>
+<p><br>
+</p>
+<p>Jugo de Coco</p>
+<p><br>
+</p>
+<p>On a hot summer day</p>
+<p>My mom would always buy me jugo de coco</p>
+<p>It was my favorite drink as a kid</p>
+<p>The cart vendor knew to pass by our&nbsp;</p>
+<p>Street, and everyday without miss</p>
+<p>A 50 cent drink would be in my hands</p>
+<p>As i got older we frequented Ecuador less</p>
+<p>Loved ones were lost, crime too high.</p>
+<p>It no longer felt like the home I knew when i was 9</p>
+<p><br>
+</p>
+<p>And yet last year at 16, i went and&nbsp;</p>
+<p>My aunt called me down and passed me a dollar</p>
+<p>She had signaled the vendor to come and with a smile told me to run</p>
+<p>Running outside brought me to when i was 9 and for a minute, my barrio looked familiar.&nbsp;</p>
+<hr>
+<p><br>
+</p>
+<p>Flour Hands</p>
+<p><br>
+</p>
+<p>In my childhood I loved</p>
+<p>To bake</p>
+<p>I would help my grandma when she would</p>
+<p>Make desserts</p>
+<p>“Con delicadeza, mija” she would tell me</p>
+<p>The batter has to be mixed consistently&nbsp;</p>
+<p>Changing rhythm would not allow it to rise</p>
+<p>I would nod and not let anyone else mix,</p>
+<p>After all too many different hands will</p>
+<p>Ruin it</p>
+<p>Only now as a college student do I realize</p>
+<p>My abuelita</p>
+
+
+
+ ]]></description>
+  <guid>https://LiaRosa.github.io/Personal_Blog/posts/thought_daughter/red_moleskin.html</guid>
+  <pubDate>Thu, 23 Jul 2026 00:36:14 GMT</pubDate>
+</item>
+</channel>
+</rss>
+>
 </channel>
 </rss>
