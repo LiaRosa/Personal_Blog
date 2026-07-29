@@ -71,10 +71,9 @@ With strange people, and now a strange girl hovers next to him, holding an egg.�
 
 ```         
     Who are you? 
+    
+Where am I?
 ```
-
- Where am I? — 
-
 Was I wrong? My shaky hands clenched behind my red dress,
 
 Red like the color of his car; red like his favorite shirt;
@@ -84,7 +83,7 @@ Red like crimson, the crimson that bloomed on the ground.
 Eyes downcast, lips pursed.
 
 Why didn’t it work? It should have worked?
-
+\
 ```         
 Warm the egg. Check. 
 ```
@@ -99,7 +98,7 @@ Why – why – why did nothing change?
 
 \
 
-```         
+
 I quickly realized that I wouldn’t be able to become a curandera, 
 so I had shifted my interest from medicinal herbs and focused 
 on flowers and the language surrounding them. Much like how a word 
@@ -111,7 +110,6 @@ with my abuelito. I would laugh before my abuelito would tell me
 to hush, both of us straining our ears to the trees, 
 feet grounded, spine straight; 
 one must stand like a tree to become one. 
-```
 
 \
 
