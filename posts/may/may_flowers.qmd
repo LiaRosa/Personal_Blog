@@ -23,4 +23,3 @@ The graduation passed by quickly-- I was sitting one moment for rehearsal and th
 妹妹,这仍在进行中
 
 
-i am showing how to push and pull in git
