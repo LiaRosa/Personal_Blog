@@ -2,6 +2,7 @@
 title: "red moleskin"
 format: html
 author: "Marlin Alejandro"
+draft: TRUE
 ---
 
 A voice that rings out 
