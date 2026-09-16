@@ -1,7 +1,8 @@
 ---
-title: "thought daughter"
+title: "Thought Daughter"
 format: html
 author: "Marlin Alejandro"
+image: "allfleshrots.jpg"
 ---
 
 ##     **Fragments of Thoughts that Once Were**
