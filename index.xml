@@ -10,7 +10,7 @@
 <atom:link href="https://LiaRosa.github.io/Personal_Blog/index.xml" rel="self" type="application/rss+xml"/>
 <description>A blog built with Quarto</description>
 <generator>quarto-1.9.37</generator>
-<lastBuildDate>Wed, 16 Sep 2026 04:35:16 GMT</lastBuildDate>
+<lastBuildDate>Wed, 16 Sep 2026 04:50:31 GMT</lastBuildDate>
 <item>
   <title>Current Songs on Repeat</title>
   <link>https://LiaRosa.github.io/Personal_Blog/posts/music.html</link>
@@ -145,7 +145,7 @@
 <div class="listing-no-matching d-none">No matching items</div>
 </div> ]]></description>
   <guid>https://LiaRosa.github.io/Personal_Blog/posts/music.html</guid>
-  <pubDate>Wed, 16 Sep 2026 04:35:16 GMT</pubDate>
+  <pubDate>Wed, 16 Sep 2026 04:50:31 GMT</pubDate>
 </item>
 <item>
   <title>April Showers</title>
@@ -189,7 +189,7 @@
 
  ]]></description>
   <guid>https://LiaRosa.github.io/Personal_Blog/posts/april/april_showers.html</guid>
-  <pubDate>Wed, 16 Sep 2026 04:35:16 GMT</pubDate>
+  <pubDate>Wed, 16 Sep 2026 04:50:31 GMT</pubDate>
   <media:content url="https://LiaRosa.github.io/Personal_Blog/posts/april/friendswithflowers.jpeg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -230,7 +230,7 @@
 
  ]]></description>
   <guid>https://LiaRosa.github.io/Personal_Blog/posts/june/june.html</guid>
-  <pubDate>Wed, 16 Sep 2026 04:35:16 GMT</pubDate>
+  <pubDate>Wed, 16 Sep 2026 04:50:31 GMT</pubDate>
   <media:content url="https://LiaRosa.github.io/Personal_Blog/posts/june/reunion.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -266,7 +266,7 @@
 
  ]]></description>
   <guid>https://LiaRosa.github.io/Personal_Blog/posts/may/may_flowers.html</guid>
-  <pubDate>Wed, 16 Sep 2026 04:35:16 GMT</pubDate>
+  <pubDate>Wed, 16 Sep 2026 04:50:31 GMT</pubDate>
   <media:content url="https://LiaRosa.github.io/Personal_Blog/posts/may/lilies.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -625,7 +625,7 @@
 
  ]]></description>
   <guid>https://LiaRosa.github.io/Personal_Blog/posts/thought_daughter/thought_daughter.html</guid>
-  <pubDate>Wed, 16 Sep 2026 04:35:16 GMT</pubDate>
+  <pubDate>Wed, 16 Sep 2026 04:50:31 GMT</pubDate>
   <media:content url="https://LiaRosa.github.io/Personal_Blog/posts/thought_daughter/allfleshrots.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -705,7 +705,7 @@ Where am I?</code></pre>
 
  ]]></description>
   <guid>https://LiaRosa.github.io/Personal_Blog/posts/thought_daughter/Prose.html</guid>
-  <pubDate>Wed, 16 Sep 2026 04:35:16 GMT</pubDate>
+  <pubDate>Wed, 16 Sep 2026 04:50:31 GMT</pubDate>
   <media:content url="https://LiaRosa.github.io/Personal_Blog/posts/thought_daughter/jellyfish.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
@@ -728,7 +728,7 @@ Where am I?</code></pre>
 
  ]]></description>
   <guid>https://LiaRosa.github.io/Personal_Blog/posts/september/september.html</guid>
-  <pubDate>Wed, 16 Sep 2026 04:35:16 GMT</pubDate>
+  <pubDate>Wed, 16 Sep 2026 04:50:31 GMT</pubDate>
   <media:content url="https://LiaRosa.github.io/Personal_Blog/posts/september/redwoods.jpeg" medium="image" type="image/jpeg"/>
 </item>
 </channel>
