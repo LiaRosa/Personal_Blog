@@ -1,5 +1,5 @@
 ---
-title: "Current Songs on Repeat"
+title: "Current Songs"
 format: html
 css: styles.css
 page-layout: full
