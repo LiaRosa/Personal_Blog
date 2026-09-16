@@ -1,0 +1,32 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+/.quarto/
+**/*.quarto_ipynb
+
+#ignoring the images
+/marlininfield.jpeg
+
+/posts/april/friendswithflowers.jpeg
+
+/posts/may/lilies.jpg
+
+/posts/june/reunion.jpg
+
+/posts/july/seaside.jpg
+
+/posts/september/redwoods.jpeg
+
+/posts/thought_daughter/allfleshrots.jpg
+
+/posts/thought_daughter/jellyfish.jpg
+
+# Ignore Mac system clutter
+.DS_Store
+**/.DS_Store
+
+# Ignore Quarto generated output directories
+_freeze/
+_site/
